@@ -1,5 +1,9 @@
-# hello-world
-Just another repository
+//hello-world program
 
-Hi,
-I will be making changes to this file.
+public class HelloWorld {
+  public static void main {
+  
+   Syytem.out.println("Hello World!");
+   
+  }
+}
